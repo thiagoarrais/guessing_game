@@ -1,8 +1,11 @@
 [package]
-name = "guessing_game"
+name = "sandbox_guessing_game"
 version = "0.1.0"
 authors = ["Thiago Arrais <thiago.arrais@gmail.com>"]
 edition = "2018"
+description = "The guessing game from the Rust book"
+license = "MIT"
+repository = "https://github.com/thiagoarrais/guessing_game.git"
 
 [dependencies]
 
