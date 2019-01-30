@@ -44,7 +44,7 @@ dependencies = [
 
 [[package]]
 name = "sandbox_guessing_game"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "rand 0.3.22 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
