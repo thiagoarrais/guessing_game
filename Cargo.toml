@@ -1,6 +1,6 @@
 [package]
 name = "sandbox_guessing_game"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Thiago Arrais <thiago.arrais@gmail.com>"]
 edition = "2018"
 description = "The guessing game from the Rust book"
